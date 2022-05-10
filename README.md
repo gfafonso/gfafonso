@@ -9,7 +9,7 @@ I've been coding for the past 2 years, it's been quite a journey and i feel like
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [gfafonso97@gmail.com](mailto:gfafonso97@gmail.com)
 * 🧠  I'm learning the technologies, the benefits, and the DevOps culture to gather as much knowledge in order to improve and automate the most I can.
-* ⚡  I'm secretely a gym rat, a enduro enthusiast and a Diamond player at Apex Legends. Also PC Master-race
+* ⚡  I'm secretely a gym rat, a enduro enthusiast and a Master player at Apex Legends. Also PC Master-race
 
 ### Skills
 
